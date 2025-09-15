@@ -1,8 +1,8 @@
 # Maintenance Mode
 
-**What is Maintenance?**
+### What is Maintenance?
 
-The Chanakya AI platform occasionally goes offline for updates and improvements. During maintenance, you can't access the platform, but your data stays safe and the platform returns better than before!
+The Chanakya EDU platform occasionally goes offline for updates and improvements. During maintenance, you can't access the platform, but your data stays safe and the platform returns better than before!
 
 ### What You'll See
 
@@ -166,4 +166,4 @@ If maintenance affects critical deadlines:
 
 **� Emergency Contacts:** Keep teacher emails and school office numbers handy during maintenance periods.
 
-_Maintenance helps keep Chanakya AI running smoothly for your education!_
+_Maintenance helps keep Chanakya EDU running smoothly for your education!_
