@@ -7,6 +7,9 @@ description: >-
 
 # Student Onboarding Workflow
 
+\<iframe width="560" height="315" src="[https://www.youtube.com/embed/w1U5BQYvaTY?si=BTX25YeGYd1aeHbk](https://www.youtube.com/embed/w1U5BQYvaTY?si=BTX25YeGYd1aeHbk)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>\</iframe>
+
+\
 **⚡ Quick Start (2 Minutes)**
 
 1.  **Login & Setup** → Use your credentials and complete profile if first time\
