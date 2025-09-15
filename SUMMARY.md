@@ -86,3 +86,4 @@
         * [Edit Section](admin-tour-guide/section-management/available-actions/per-section-actions/edit-section.md)
         * [Delete Section](admin-tour-guide/section-management/available-actions/per-section-actions/delete-section.md)
     * [Section Creation Process](admin-tour-guide/section-management/section-creation-process.md)
+* [Maintenance Mode](maintenance-mode.md)
