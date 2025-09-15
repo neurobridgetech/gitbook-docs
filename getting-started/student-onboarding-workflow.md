@@ -9,9 +9,9 @@ description: >-
 
 **Vedio Guide**
 
-
-
-[**https://www.youtube.com/watch?v=w1U5BQYvaTY\&list=PL635If6BasytA\_wG-x6Fo6xkzj64gW8Bn\&index=1**](https://www.youtube.com/watch?v=w1U5BQYvaTY\&list=PL635If6BasytA_wG-x6Fo6xkzj64gW8Bn\&index=1)
+\
+[**https://www.youtube.com/watch?v=w1U5BQYvaTY**\
+](https://www.youtube.com/watch?v=w1U5BQYvaTY)
 
 \
 \
