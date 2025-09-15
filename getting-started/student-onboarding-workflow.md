@@ -7,13 +7,16 @@ description: >-
 
 # Student Onboarding Workflow
 
-[https://www.youtube.com/watch?v=w1U5BQYvaTY\&list=PL635If6BasytA\_wG-x6Fo6xkzj64gW8Bn\&index=1](https://www.youtube.com/watch?v=w1U5BQYvaTY\&list=PL635If6BasytA_wG-x6Fo6xkzj64gW8Bn\&index=1)
+**Vedio Guide**
+
+<p align="center"><a href="https://www.youtube.com/watch?v=w1U5BQYvaTY&#x26;list=PL635If6BasytA_wG-x6Fo6xkzj64gW8Bn&#x26;index=1"><strong>https://www.youtube.com/watch?v=w1U5BQYvaTY&#x26;list=PL635If6BasytA_wG-x6Fo6xkzj64gW8Bn&#x26;index=1</strong></a></p>
 
 \
-**⚡ Quick Start (2 Minutes)**
+\
+\
+&#xNAN;**⚡ Quick Start (2 Minutes)**
 
 1.  **Login & Setup** → Use your credentials and complete profile if first time\
-    \
 
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.48.00 PM.png" alt=""><figcaption></figcaption></figure>
