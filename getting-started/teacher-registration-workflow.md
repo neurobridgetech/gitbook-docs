@@ -1,8 +1,8 @@
----
-description: 👨‍🏫 Teacher Role
----
-
 # Teacher Registration Workflow
+
+**Video Guide**
+
+{% embed url="https://www.youtube.com/playlist?list=PL635If6BasytAqGDpxN69_DqBeb2Mp9-O" %}
 
 #### For Teachers
 
