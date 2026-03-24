@@ -4,214 +4,124 @@ Design focused practice sessions with AI-powered topic suggestions and flexible 
 
 ### Getting Started
 
-Navigate to the Create Exercise page to begin setting up a new practice session for your students.
+This guide walks you through how to create exercises for your student  from picking topics to reviewing questions and making them live. Everything is designed to be quick and straightforward.\
+\
+Two Ways to Create Exercises
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-24 at 10.36.03 AM.png" alt=""><figcaption></figcaption></figure>
+When you open the Create Exercise page, you'll see **two tabs** at the top:
 
-### 1. Basic Setup
+| Option              | Best For                                                                     |
+| ------------------- | ---------------------------------------------------------------------------- |
+| **Create Exercise** | Let AI generate questions based on the topics and chapters you choose        |
+| **Upload Paper**    | Upload your own question paper (as a PDF or images) for digital distribution |
 
-#### Select Your Class
+You can switch between these two modes anytime , just click the tab you want.<br>
 
-Choose the batch/class where you want to assign the exercise from the dropdown menu.
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.12.14 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### Choose Subject
+***
 
-Once you select a class, the system automatically loads all subjects assigned to that batch. Pick the relevant subject for your exercise.
+### Option 1: Create Exercise (AI-Generated)
 
-#### Exercise Type
+This is the most powerful way to create exercises. You tell the system what you want, and AI generates the questions for you.<br>
 
-Select from different exercise formats like tests, quizzes, or practice sessions. Each type has specific question counts and mark distributions.
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.13.56 AM.png" alt=""><figcaption></figcaption></figure>
 
-### 2. Scheduling Your Exercise
+#### Step 1: Pick Your Class and Subject
 
-#### Start Date
+At the top of the form, you'll see three dropdowns:
 
-Set when students can begin attempting the exercise. By default, it's set to today's date.
+1. **Select Class** — Choose which batch/section this exercise is for
+2. **Select Subject** — The subjects will load automatically once you pick a class
+3. **No. Of Questions** — Choose how many questions you want (e.g., "10 Questions - Mixed", "20 Questions - MCQ Only")
 
-#### End Date
+> 💡 Your first class and subject are selected automatically to save time.
 
-Choose when the exercise should close. The system automatically suggests 2 days from the start date.
+#### Step 2: Choose Your Topics
 
-### 3. Content Selection
+Once you've selected a subject, you need to tell the system what content to base the questions on.
 
-#### Topic-Based Approach (Default)
+**Here's what happens:**
 
-**Select Chapter**
+1. **Pick a chapter** from the dropdown
+2. **AI suggests topics** — you'll see topic chips appear below the dropdown
+3. **Click topics to add them** — or use "Select All" to add everything
+4. **Type your own topics** — you can also manually add topics in the text box
+5. **Remove topics** you don't want by clicking "Remove All"
 
-Choose a specific chapter from your subject curriculum.
+> 💡 **Tip:** Start with the AI suggestions, then add any specific topics you've recently covered in class.
 
-**AI Topic Suggestions**
+| Date           | What It Means                        | Default         |
+| -------------- | ------------------------------------ | --------------- |
+| **Start Date** | When students can begin the exercise | Today           |
+| **End Date**   | When the exercise closes             | 2 days from now |
 
-After selecting a chapter, the system provides intelligent topic suggestions based on the curriculum content.
+You can adjust these to match your teaching schedule. The exercise opens at the start of the day and closes at the end of the day — you don't need to set specific times.
 
-* **Select All**: Quickly add all suggested topics
-* **Individual Selection**: Click on specific topics to add them
-* **Remove All**: Clear all selected topics
+#### Step 4: Advanced Options (Optional)
 
-**Manual Topic Entry**
+Want more control? Check the **"Advanced Option"** checkbox at the top of the form.
 
-You can also type additional topics directly in the text area or modify the suggested ones.
+This unlocks three extra features:
 
-#### Chapter-Based Approach (Advanced Option)
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.17.33 AM.png" alt=""><figcaption></figcaption></figure>
 
-When using advanced options, you can switch to selecting multiple entire chapters instead of specific topics.
+**Choose Difficulty Level**
 
-### 4. Advanced Options - Complete Guide
+Pick how challenging the questions should be:
 
-Enable advanced options for granular control over exercise generation, moving beyond basic settings to customize difficulty, syllabus approach, and question distribution.
+| Level         | What It Means                                                                |
+| ------------- | ---------------------------------------------------------------------------- |
+| 🟢 **Easy**   | Basic concept questions  good for revision or weaker students                |
+| 🟡 **Medium** | Standard difficulty  matches your regular curriculum _(selected by default)_ |
+| 🔴 **Hard**   | Challenging questions  great for advanced students or exam prep              |
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-24 at 10.37.46 AM.png" alt=""><figcaption></figcaption></figure>
+**Switch Between Topic Wise and Chapter Wise**<br>
 
-#### Enabling Advanced Options
+* **Topic Wise** _(default)_: Pick one chapter, then select specific topics within it
+* **Chapter Wise**: Select multiple entire chapters at once — useful for revision tests or unit tests
 
-Click the **"Advanced Option"** checkbox in the form header to unlock additional customization features. When enabled:
+> When you switch between these, your previous selections are cleared, so you'll need to pick again.
 
-* Checkbox text turns blue and bold
-* Additional sections appear below the basic form
-* More sophisticated exercise configuration becomes available
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.22.32 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### Difficulty Level Selection
+\
+**Customise Question Distribution**
 
-**Available Difficulty Levels**
+If you want to decide exactly how many MCQs, short-answer, and long-answer questions appear:
 
-Choose from three predefined difficulty levels to match your students' capabilities:
+* Enter the number of questions for each type
+* The system automatically calculates the total marks
+* On mobile, you'll see handy **+** and **−** buttons
 
-* **Easy**: Simpler questions, basic concepts
-* **Medium**: Moderate complexity, standard curriculum level (Default)
-* **Hard**: Advanced questions, challenging concepts
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.23.16 AM.png" alt=""><figcaption></figcaption></figure>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-09-24 at 10.38.54 AM.png" alt="" width="263"><figcaption></figcaption></figure></div>
+Once everything looks good:
 
-**How It Works:**
+1. Click **Submit**
+2. Wait while AI generates your questions (you'll see a loading screen)
+3.  You'll be taken to the **Preview page** to review the questions before making them live.\
+    <br>
 
-* Click on any difficulty button to select it
-* Selected difficulty appears highlighted
-* Only one difficulty level can be selected at a time
+    ### Option 2: Upload Your Own Paper
 
-**Impact on Exercise:** The selected difficulty level influences question complexity generated by AI and assessment  appropriate for student level.
+    Already have a question paper ready? Upload it instead!<br>
 
-#### Syllabus Type Configuration
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.27.26 AM.png" alt=""><figcaption></figcaption></figure>
 
-**Two Approaches Available**
+#### How to Upload:
 
-**Topic Wise (Default)**
+1. **Select your class and subject** (same as before)
+2. **Set dates** (optional  when students should access it)
+3. **Upload your Question Paper:**
+   * Drag and drop a **PDF** or **images** into the upload area
+   * Or click the area to browse your files
+   * You can upload **one PDF** or **multiple images** — but not both together
+4. **Upload an Answer Key** _(optional)_:
+   * Same process — drag and drop or browse
+   * This helps with automated grading later
 
-* **Focus**: Specific topics within a single chapter
-* **Selection**: Choose one chapter, then select specific topics
-* **Use Case**: When you want to focus on particular concepts
-* **AI Integration**: System provides topic suggestions based on selected chapter
+> 💡 **Tip:** If you're uploading photos of a physical paper, make sure they're clear.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-09-24 at 10.40.09 AM.png" alt=""><figcaption></figcaption></figure>
-
-**Chapter Wise**
-
-* **Focus**: Entire chapters as units
-* **Selection**: Choose multiple complete chapters
-* **Use Case**: When covering broader curriculum sections
-* **Coverage**: Full chapter content without topic-level granularity
-
-
-
-**Switching Between Types:**
-
-* Switching clears previous selections automatically
-* Topic Wise → Chapter Wise: Clears selected chapter and topics
-* Chapter Wise → Topic Wise: Clears selected chapters
-
-#### Question Distribution System
-
-**What Is Question Distribution?**
-
-Customize exactly how many questions of each type appear in your exercise, rather than using default distributions.
-
-**Question Types Available**
-
-Based on the selected exercise type, you can control:
-
-* **Multiple Choice Questions (MCQ)**
-* **Short Answer Questions**
-* **Long Answer Questions**
-* **Other types** as defined in your exercise template
-
-**Desktop Interface**
-
-**Layout**: Horizontal arrangement with clear labeling
-
-* **Question Type Label**: Shows question category
-* **Input Field**: Enter desired number of questions
-* **Marks Calculation**: Real-time display of marks per type
-* **Total Summary**: Shows overall questions and marks
-
-**Mobile Interface**
-
-**Layout**: Vertical cards for better mobile experience
-
-* **Question Type Cards**: Each type in separate card
-* **+/- Buttons**: Easy increment/decrement controls
-* **Input Field**: Manual number entry option
-* **Real-time Totals**: Dynamic calculation display
-
-**Distribution Controls**
-
-**Manual Input:**
-
-* Type desired number directly in input fields
-* System validates against maximum limits
-* Immediate feedback for invalid entries
-
-**Mobile Controls (Additional):**
-
-* **Plus Button (+)**: Increment question count by 1
-* **Minus Button (-)**: Decrement question count by 1 (disabled when count is 0)
-* **Smart Limits**: System respects total question limits
-
-**Marks Calculation**
-
-**Automatic Computation:**
-
-* Individual: Questions × Marks per question = Subtotal
-* Overall: Sum of all subtotals = Total marks
-* Real-time updates as you adjust numbers
-
-**Validation Rules**
-
-* Total questions cannot exceed exercise type maximum
-* Error messages appear when limits are exceeded
-* System prevents invalid configurations
-
-### 5. Form Validation
-
-The system checks all required fields before allowing submission:
-
-✅ **Required Fields**
-
-* Batch selection
-* Subject selection
-* Exercise type
-* Valid start and end dates
-* At least one topic (topic-wise) or chapter (chapter-wise)
-
-### 6. Creating Your Exercise
-
-Once all fields are completed correctly:
-
-1. Review your selections
-2. Click the **Submit** button
-3. Wait for the exercise to be generated
-4. You'll be redirected to preview your created exercise
-
-### Tips for Success
-
-💡 **Best Practices**
-
-* Use AI topic suggestions as a starting point, then customize as needed
-* Set realistic timeframes for student completion
-* Preview your exercise before making it live
-* Consider your students' skill level when selecting difficulty
-
-🎯 **Topic Selection Tips**
-
-* Combine AI suggestions with your teaching goals
-* Add specific topics you've covered in class
-* Remove topics that aren't relevant to current learning objectives
+***
 
