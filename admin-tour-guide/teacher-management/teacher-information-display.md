@@ -1,7 +1,6 @@
 # Teacher Information Display
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-09-04 at 5.22.57 AM.png" alt=""><figcaption></figcaption></figure>
 

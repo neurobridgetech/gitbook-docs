@@ -7,7 +7,6 @@
   * **Class**: Educational level combined with section information
   * **Mobile No.**: Contact information for communication purposes
   *   **Username**: Login credentials for platform access\
-      \
-
+      <br>
 
       <figure><img src="../../.gitbook/assets/Screenshot 2025-09-04 at 4.42.28 AM.png" alt=""><figcaption></figcaption></figure>

@@ -7,8 +7,7 @@
    * Account credentials
 3. Assign to appropriate sections/batches
 4.  Save and confirm\
-    \
-
+    <br>
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-09-04 at 5.11.02 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -1,7 +1,6 @@
 # Total Teachers
 
-**Purpose**: Teaching staff overview with instant access to teacher administration\
-
+**Purpose**: Teaching staff overview with instant access to teacher administration<br>
 
 * **Display Elements**:
   * Current count of all registered teaching staff

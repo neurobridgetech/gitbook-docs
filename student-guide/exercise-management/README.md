@@ -3,8 +3,7 @@
 ### 🏃‍♂️ Exercise Management
 
 Exercise Management in Chanakya AI provides students with targeted practice opportunities to strengthen their understanding of specific topics and subjects. Unlike formal exams, exercises are designed for skill development, knowledge reinforcement, and continuous learning through AI-enhanced feedback.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 7.06.24 PM.png" alt=""><figcaption></figcaption></figure>
 

@@ -16,27 +16,22 @@ description: >-
 \
 &#xNAN;**⚡ Quick Start (2 Minutes)**
 
-1.  **Login & Setup** → Use your credentials and complete profile if first time\
-
+1.  **Login & Setup** → Use your credentials and complete profile if first time<br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.48.00 PM.png" alt=""><figcaption></figcaption></figure>
 2.  **Explore Dashboard** → Review your performance metrics and upcoming activities\
-    \
-
+    <br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.47.27 PM (2).png" alt=""><figcaption></figcaption></figure>
 3.  **Access Exercises** → Complete assigned topic-based exercises\
-    \
-
+    <br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.50.42 PM.png" alt=""><figcaption></figcaption></figure>
-4.  **Take Exams** → Join scheduled assessments and tests\
-
+4.  **Take Exams** → Join scheduled assessments and tests<br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.57.27 PM.png" alt=""><figcaption></figcaption></figure>
 5.  **Review Results** → Check grades, feedback, and performance analytics\
-    \
-
+    <br>
 
     <figure><img src="../.gitbook/assets/Screenshot 2025-08-21 at 5.58.44 PM.png" alt=""><figcaption></figcaption></figure>
 

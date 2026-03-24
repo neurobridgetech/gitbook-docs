@@ -11,8 +11,7 @@ View and manage all your exercises with comprehensive filtering and status track
 * Status Filters: Filter by All, Approved, or Pending exercises
 * Responsive Design: Mobile-optimized table view with card layout
 
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.43.08 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,11 +53,10 @@ View and manage all your exercises with comprehensive filtering and status track
 * Create New: Direct access to exercise creation
 * Mobile Actions: Simplified action buttons for mobile users
 *   Bulk Operations: Select multiple exercises for batch actions\
-    \
-
+    <br>
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.46.21 PM.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-#### &#x20;
+#### <br>

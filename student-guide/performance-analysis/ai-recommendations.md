@@ -1,7 +1,6 @@
 # AI Recommendations
 
-AI Recommendations provide personalized, data-driven suggestions based on your exam and exercise performance to optimize your learning strategy.\
-
+AI Recommendations provide personalized, data-driven suggestions based on your exam and exercise performance to optimize your learning strategy.<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 8.26.45 PM.png" alt=""><figcaption></figcaption></figure>
 

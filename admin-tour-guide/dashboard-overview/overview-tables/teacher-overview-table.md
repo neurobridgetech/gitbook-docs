@@ -1,7 +1,6 @@
 # Teacher Overview Table
 
-**Purpose**: Showcases recently added teaching staff for administrative oversight\
-
+**Purpose**: Showcases recently added teaching staff for administrative oversight<br>
 
 * **Data Display Structure**:
   * **Name**: Full teacher name for staff identification

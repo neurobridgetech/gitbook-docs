@@ -15,8 +15,7 @@ Finalize and release approved content to students with automated notifications.
 * Approval Button: Single-click content approval
 * Loading States: Real-time feedback during publication
 *   Status Updates: Clear indication of publication progress\
-    \
-
+    <br>
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.33.18 PM.png" alt=""><figcaption></figcaption></figure>
 

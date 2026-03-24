@@ -11,8 +11,7 @@
 * **Contact Information**: Mobile number, professional email address, emergency contacts
 *   **Professional Credentials**: Educational background, certifications, experience level\
     \
-    \
-
+    <br>
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-09-04 at 5.47.38 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 

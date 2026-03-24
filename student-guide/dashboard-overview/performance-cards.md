@@ -1,8 +1,7 @@
 # Performance Cards
 
 The top section of your dashboard features interactive performance cards that provide quick access to your most important academic metrics.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 6.42.16 PM.png" alt=""><figcaption></figcaption></figure>
 

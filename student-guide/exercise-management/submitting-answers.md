@@ -2,8 +2,7 @@
 
 Answer Submission Methods
 
-Chanakya AI supports multiple submission formats to accommodate different types of responses and student preferences.\
-
+Chanakya AI supports multiple submission formats to accommodate different types of responses and student preferences.<br>
 
 **📝 Text Input Method**
 
@@ -12,8 +11,7 @@ When to Use:
 * Short answer questions
 * Multiple choice responses
 * Numerical calculations
-* Brief explanations or definitions\
-
+* Brief explanations or definitions<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 7.20.19 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -82,8 +80,7 @@ OCR Workflow:
 2. Processing: AI analyzes and converts content to text
 3. Review Phase: Verify OCR accuracy and make corrections if needed
 4. Text Extraction: Extracted text becomes searchable and analyzable
-5. Feedback Generation: AI provides feedback based on recognized content\
-
+5. Feedback Generation: AI provides feedback based on recognized content<br>
 
 {% file src="../../.gitbook/assets/Screen Recording 2025-08-21 at 7.32.17 PM (1).mov" %}
 

@@ -1,8 +1,7 @@
 # Performance Insights
 
 Performance Insights transform your academic data into meaningful patterns and actionable intelligence about your learning journey.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 8.25.17 PM.png" alt=""><figcaption></figcaption></figure>
 

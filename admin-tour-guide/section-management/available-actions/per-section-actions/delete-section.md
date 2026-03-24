@@ -13,8 +13,7 @@
 * **Data Safety**: Confirmation dialog displays section name and enrollment count for verification
 * **Dependency Checking**: Validates that section can be safely removed without data loss
 *   **Use Cases**: Academic restructuring, capacity reduction, program discontinuation\
-    \
-
+    <br>
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 9.55.07 AM.png" alt=""><figcaption></figcaption></figure>
 

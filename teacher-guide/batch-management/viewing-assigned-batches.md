@@ -20,4 +20,4 @@ Teachers: View assigned batches with student access only
 
 * Admins: Full batch management with create, edit, and delete capabilities
 * Responsive Design: Mobile-optimized interface with card-based layout\
-  \
+  <br>

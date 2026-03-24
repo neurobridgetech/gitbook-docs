@@ -25,8 +25,7 @@ The Chanakya AI platform occasionally goes offline for updates and improvements.
 * Automatic return to your dashboard
 * All features restored
 *   Your data unchanged\
-    \
-
+    <br>
 
     <figure><img src=".gitbook/assets/Screenshot 2025-09-15 at 5.24.44 PM.png" alt=""><figcaption></figcaption></figure>
 

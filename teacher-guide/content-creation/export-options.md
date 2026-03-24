@@ -50,4 +50,4 @@ Generate downloadable materials for offline use and distribution.
 * Archive Management: Maintain physical records for compliance
 
 \
-\
+<br>

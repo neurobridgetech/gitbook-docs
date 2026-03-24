@@ -3,8 +3,7 @@
 #### 📋 Exercise Results
 
 Exercise Results provide immediate feedback and comprehensive analysis of your completed assignments and assessments.\
-\
-
+<br>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 8.21.51 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -35,4 +34,4 @@ Exercise Results provide immediate feedback and comprehensive analysis of your c
 
 ####
 
-\
+<br>

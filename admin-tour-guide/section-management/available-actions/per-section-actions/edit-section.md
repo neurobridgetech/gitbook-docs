@@ -11,7 +11,6 @@
 * **Route Handling**: Navigates to `/batch/edit/{id}?name={name}&class={class}` with section context
 * **Form Pre-population**: Automatically loads existing section data for modification
 * **Administrative Control**: Update section parameters, capacity, and assignments
-*   **Use Cases**: Capacity adjustments, name changes, teacher reassignments, academic restructuring\
-
+*   **Use Cases**: Capacity adjustments, name changes, teacher reassignments, academic restructuring<br>
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 9.51.09 AM.png" alt="" width="563"><figcaption></figcaption></figure>
