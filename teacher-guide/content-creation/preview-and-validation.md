@@ -1,159 +1,55 @@
 # Preview & Validation
 
-Finalize and release approved content to students with automated notifications.
+After creating an exercise, you'll land on the **Preview page**. This is where you review every question before your students see it.
 
-### Preview Interface
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.36.20 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### Content Overview
+#### What You'll See
 
-Access the preview page to review your generated exam or exercise:
+At the top of the page:
 
-**Header Information**:
+* 📝 **Exercise name** and **number of questions**
+* 📚 **Subject**
+* 🏷️ **Status** : either "Pending" (not yet approved) or "Approved"
+*   📥 **Export button** : download your exercise as a PDF<br>
 
-* Exercise/Exam name and total questions
-* Subject (for exercises) or total marks (for exams)
-* Current status: Pending or Approved
-* Export dropdown with three options:
-  * **Question Paper**: Complete question list for printing
-  * **Answer Key**: Solutions and correct answers
-  * **Practice Sheet**: Student-friendly practice format
+    #### Reviewing Each Question
 
-#### Question Review
+    <br>
 
-Each question displays:
+    <figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.38.13 AM.png" alt=""><figcaption></figcaption></figure>
 
-* **Question content** with mathematical formatting
-* **Images** when included in questions
-* **Multiple choice options** with correct answers highlighted in green
-* **Question type** and **chapter information**
-* **Correct answers** for descriptive questions
+\
+Each question card shows you:
 
-**Question Actions**
+* The **question text** (with math formulas displayed properly)
+* **Answer options** (for MCQs)  the correct answer is highlighted in **green**
+* **Chapter and topic** information
+* **Difficulty level**
+* Any **images** attached to the question
 
-**Regenerate Button** (Only for pending status):
+#### What You Can Do With Each Question
 
-* Click the regenerate icon next to any question
-* Select new topic/chapter and difficulty level
-* System generates a replacement question automatically
-* Loading indicator shows progress during regeneration
+While your exercise is still in "Pending" status, you have several options:
 
-**Feedback Button**:
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.39.41 AM.png" alt=""><figcaption></figcaption></figure>
 
-* Available for all questions
-* Report issues or problems with specific questions
-* Helps improve question quality for future use
+| Action              | When to Use It                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| 🔄 **Regenerate**   | Don't like a question? Click this to have AI create a new one. You can pick a different topic or difficulty level. |
+| ✏️ **Edit**         | Want to make small changes? Edit the question text, options, or answers directly.                                  |
+| 💬 **Feedback**     | Found a problem? Report it so the question quality improves over time.                                             |
+| 📤 **Upload Image** | Need to add a diagram or image to a question? Upload it here.                                                      |
 
-### Approval Process
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.42.06 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### 1. Quality Review
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.44.41 AM.png" alt=""><figcaption></figcaption></figure>
 
-* **Review all questions** thoroughly for accuracy
-* **Check mathematical content** and formatting
-* **Verify correct answers** are properly marked
-* **Ensure appropriate difficulty** distribution
+<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.45.23 AM.png" alt=""><figcaption></figcaption></figure>
 
-#### 2. Question Improvements
-
-* **Regenerate unsuitable questions** using topic and difficulty filters
-* **Submit feedback** for problematic content
-* **Wait for regeneration** to complete before proceeding
-
-#### 3. Final Approval
-
-**Review Confirmation**:
-
-* Check the confirmation box: _"I have reviewed all questions and confirm this exercise/exam is ready for approval"_
-* This step is mandatory and cannot be skipped
-
-**Approval Action**:
-
-* Click **"Approve Exercise"** or **"Approve Exam"** button
-* System processes approval and updates status
-* Content becomes immediately available to students
-
-### Student Impact
-
-#### Automatic Release
-
-Once approved, your content:
-
-* **Appears in student dashboards** immediately
-* **Sends automatic notifications** to assigned students
-* **Updates from "Not Available" to "Available"** status
-* **Becomes accessible** for student attempts
-
-#### Content Delivery
-
-Students receive the same high-quality formatting:
-
-* Mathematical expressions render clearly
-* Images display properly
-* Questions appear in organized format
-* Answer options are randomized (for MCQs)
-
-### Best Practices
-
-#### Before Approval
-
-1. **Review every question** - Don't skip any content
-2. **Test mathematical formatting** - Ensure formulas display correctly
-3. **Verify answer keys** - Double-check correct options
-4. **Balance difficulty levels** - Mix easy, medium, and hard questions
-5. **Check topic coverage** - Ensure all intended topics are included
-
-#### Quality Standards
-
-* Questions should be clear and unambiguous
-* Mathematical notation should be properly formatted
-* Images should be relevant and high-quality
-* Correct answers must be accurate
-* Difficulty should match student level
-
-#### Efficient Workflow
-
-1. **Scan all questions first** for obvious issues
-2. **Regenerate problematic questions** in batches
-3. **Use feedback system** for recurring problems
-4. **Export content** for your records before approval
-5. **Inform students** about newly available content
+> 💡 **Tip:** You can also **drag and drop questions** to reorder them when Edit Mode is turned on.
 
 {% file src="../../.gitbook/assets/Screen Recording 2025-09-24 at 10.46.59 AM.mov" %}
 
-### Common Scenarios
+***
 
-#### When to Regenerate
-
-* Question is too difficult or too easy
-* Mathematical errors in content
-* Unclear question wording
-* Incorrect answer options
-* Topic doesn't match requirements
-
-#### When to Use Feedback
-
-* Systematic issues with question generation
-* Recurring formatting problems
-* Content doesn't match curriculum standards
-* Technical issues with question display
-
-#### Export Usage
-
-* **Question Paper**: For offline distribution or backup
-* **Answer Key**: For reference during student discussions
-* **Practice Sheet**: For additional student practice
-
-### After Approval
-
-#### Content Management
-
-* **Read-only access**: Questions cannot be modified after approval
-* **Export remains available**: Download content anytime
-* **Student data tracking**: Monitor attempt rates and scores
-* **Content reuse**: Approved questions available for future exams
-
-#### Student Experience
-
-* Content appears in student dashboard immediately
-* Students receive notifications about new content
-* Questions display with same formatting and quality
-* Student attempts are tracked for progress monitoring
