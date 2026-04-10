@@ -10,6 +10,7 @@
 * **Process Flow**: Two-step confirmation process to prevent accidental password resets
 * **Notification System**: Success/error messaging for password reset operations
 *   **Use Cases**: Password recovery, security maintenance, account access restoration\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 5.03.14 AM.png" alt="" width="563"><figcaption></figcaption></figure>

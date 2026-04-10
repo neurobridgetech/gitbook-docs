@@ -13,7 +13,8 @@
 * **Data Safety**: Confirmation dialog displays teacher name and assignment count for verification
 * **Process Security**: Requires explicit confirmation before executing deletion
 *   **Use Cases**: Remove former staff, cleanup test accounts, administrative data management\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 5.42.49 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 

@@ -11,7 +11,8 @@ Monitor and track individual student submissions with detailed progress insights
 * Student Count: Display filtered vs. total student numbers
 * Responsive Table: Desktop and mobile-optimized views
 
-<br>
+\
+
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.48.51 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -58,4 +59,4 @@ Monitor and track individual student submissions with detailed progress insights
 
 ***
 
-#### <br>
+#### &#x20;

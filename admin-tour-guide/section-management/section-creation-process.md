@@ -28,4 +28,4 @@ The comprehensive section creation workflow ensures proper academic structure an
    * **Student Assignment**: Enable student enrollment and assignment capabilities
    * **Teacher Access**: Grant appropriate access to assigned teaching staff
    * **Monitoring Setup**: Initialize tracking and reporting for the new section\
-     <br>
+     \

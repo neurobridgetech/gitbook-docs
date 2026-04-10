@@ -1,36 +1,39 @@
----
-description: Approving Your Exercise
----
-
 # Publishing Content
 
-Once you've reviewed all the questions and you're happy with them:
+Finalize and release approved content to students with automated notifications.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-03-24 at 7.47.54 AM.png" alt=""><figcaption></figcaption></figure>
+**Approval Workflow**
 
-#### Approval Checklist that should be taken in mind:
+1\. Final Review
 
-* [ ] Reviewed every question for accuracy
-* [ ] Checked that math formulas display correctly
-* [ ] Verified the correct answers are right
-* [ ] Made sure the difficulty is appropriate for your students
-* [ ] Replaced or regenerated any poor questions
+* Content Verification: Confirm all questions and answers are accurate
+* Scheduling Check: Validate start/end dates and duration
+* Student Readiness: Ensure target batch has access
 
-#### To Approve:
+2\. Publication Process
 
-1. ✅ Check the box that says _"I have reviewed all questions and confirm this exercise is ready for approval"_
-2. Click **"Approve Exercise"**
-3. Done! Your exercise is now live for students
+* Approval Button: Single-click content approval
+* Loading States: Real-time feedback during publication
+*   Status Updates: Clear indication of publication progress\
+    \
 
-#### What Happens After Approval:
 
-* 🎓 Students see the exercise on their dashboard **immediately**
-* 🔔 Students receive a **notification** about the new exercise
-* 🔒 You **can't edit questions** after approval — so make sure you're satisfied first!
-* 📥 You can still **export/download** the exercise anytime
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.33.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Student Notification**
+
+3\. Automatic Alerts
+
+* System Notifications: Students receive automatic exam/exercise alerts
+* Dashboard Updates: New content appears in student dashboards
+* Schedule Integration: Upcoming tests show in student calendars
+
+4\. Availability Management
+
+* Immediate Access: Published content becomes instantly available
+* Scheduled Release: Content activates at specified start times
+* Access Control: Only assigned batches can view content
 
 ***
-
-
 
 ####

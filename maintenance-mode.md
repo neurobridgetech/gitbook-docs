@@ -1,8 +1,10 @@
 # Maintenance Mode
 
-**What is Maintenance?**
+### What is Maintenance?
 
-The Chanakya AI platform occasionally goes offline for updates and improvements. During maintenance, you can't access the platform, but your data stays safe and the platform returns better than before!
+The Chanakya AI platform occasionally goes offline for updates and improvements. During maintenance, you can't access the platform, but your data stays safe and the platform returns better than before!\
+\
+
 
 <figure><img src=".gitbook/assets/WhatsApp Image 2025-09-15 at 5.26.31 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
@@ -16,7 +18,7 @@ The Chanakya AI platform occasionally goes offline for updates and improvements.
 
 #### ⚙️ **During Maintenance**
 
-* Chanakya EDU logo and moving animation
+* Chanakya AI logo and moving animation
 * "Maintenance Break!" message with timing
 * No platform access
 
@@ -25,7 +27,8 @@ The Chanakya AI platform occasionally goes offline for updates and improvements.
 * Automatic return to your dashboard
 * All features restored
 *   Your data unchanged\
-    <br>
+    \
+
 
     <figure><img src=".gitbook/assets/Screenshot 2025-09-15 at 5.24.44 PM.png" alt=""><figcaption></figcaption></figure>
 

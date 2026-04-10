@@ -12,6 +12,7 @@
 * **Visual Design**: Blue color coding for informational actions
 * **Interactive Features**: Full student search and filtering capabilities within the modal
 *   **Use Cases**: Attendance verification, student roster review, academic planning\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 9.42.54 AM.png" alt=""><figcaption></figcaption></figure>

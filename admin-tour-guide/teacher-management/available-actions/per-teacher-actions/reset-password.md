@@ -12,7 +12,8 @@
 * **Notification System**: Success/error messaging for password reset operations
 * **Professional Handling**: Secure delivery of new credentials to teacher's registered email
 *   **Use Cases**: Password recovery, security maintenance, account access restoration\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 5.35.48 AM (1).png" alt=""><figcaption></figcaption></figure>
 

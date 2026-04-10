@@ -10,7 +10,8 @@
 * **Access Control**: Only available to admin users with appropriate permissions
 * **Visual Design**: Primary blue button with clear labeling for immediate recognition
 * **Navigation Flow**: Routes to `/batch/create` for new section establishment
-*   **Use Cases**: Academic year setup, new program creation, capacity expansion<br>
+*   **Use Cases**: Academic year setup, new program creation, capacity expansion\
+
 
     <figure><img src="../../../.gitbook/assets/Screenshot 2025-09-04 at 9.38.41 AM.png" alt=""><figcaption></figcaption></figure>
 

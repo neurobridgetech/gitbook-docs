@@ -1,7 +1,8 @@
 # Dashboard Overview
 
 Your teacher dashboard provides real-time insights into class performance and upcoming activities. Navigate through different time periods and batches to get comprehensive analytics.\
-<br>
+\
+
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 8.48.44 PM (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +33,8 @@ Four key metric cards provide instant class insights:📊 Total Students
 * Number of scheduled but unfinished assessments
 * Blue indicators for upcoming deadlines
 *   Quick navigation to test management\
-    <br>
+    \
+
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 8.59.29 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,7 +46,8 @@ Four key metric cards provide instant class insights:📊 Total Students
 * Countdown Timer: Days remaining until test start
 * Status Indicators: Pending/Active test labels
 *   Empty State: Direct "Create Exam" button when no tests scheduled\
-    <br>
+    \
+
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.03.15 PM.png" alt=""><figcaption></figcaption></figure>
 * Test Names: Recently completed assessments
@@ -52,7 +55,8 @@ Four key metric cards provide instant class insights:📊 Total Students
 * Performance Tracking: Quick overview of test completion rates
 * Date Information: When tests were conducted
 
-<br>
+\
+
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.01.41 PM (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -61,7 +65,8 @@ Four key metric cards provide instant class insights:📊 Total Students
 * Percentage Scores: Exact performance metrics
 * Empty State: Motivational message when no data available
 
-<br>
+\
+
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.01.00 PM (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -83,7 +88,8 @@ Choose specific timeframes for data analysis:
 * This Month - Monthly analytics and trends
 * This Quarter - Quarterly performance assessment
 *   This Year - Annual progress tracking\
-    <br>
+    \
+
 
     <figure><img src="../../.gitbook/assets/Screenshot 2025-08-21 at 9.06.59 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -103,4 +109,4 @@ Choose specific timeframes for data analysis:
 * Tooltips: Helpful hints on hover for better navigation
 * Real-time Data: Automatic updates as students take tests
 
-<br>
+\

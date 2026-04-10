@@ -12,6 +12,7 @@
 * **Data Safety**: Confirmation dialog displays student name for verification
 * **Process Security**: Requires explicit confirmation before executing deletion
 *   **Use Cases**: Remove inactive students, cleanup test accounts, data management\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 5.05.34 AM.png" alt="" width="563"><figcaption></figcaption></figure>

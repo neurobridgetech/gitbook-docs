@@ -1,6 +1,7 @@
 # Student Overview Table
 
-**Purpose**: Displays the most recently registered students for immediate visibility into new enrollments<br>
+**Purpose**: Displays the most recently registered students for immediate visibility into new enrollments\
+
 
 * **Data Display Structure**:
   * **Name**: Full student name for identification

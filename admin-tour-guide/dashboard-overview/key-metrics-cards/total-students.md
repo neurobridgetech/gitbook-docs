@@ -4,7 +4,8 @@
 * **Display Elements**:
   * Large numerical count of total registered students
   * "Total Students" label for clear identification
-  *   Student icon for visual recognition<br>
+  *   Student icon for visual recognition\
+
 
       <div align="center"><figure><img src="../../../.gitbook/assets/Screenshot 2025-09-03 at 2.52.38 PM.png" alt="" width="295"><figcaption></figcaption></figure></div>
 * **Interactive Features**:

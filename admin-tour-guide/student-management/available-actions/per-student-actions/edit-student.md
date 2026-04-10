@@ -9,6 +9,7 @@
 * **Visual Feedback**: Green color coding  indicating modification/update actions
 * **Form Pre-population**: Automatically loads existing student data for modification
 *   **Use Cases**: Update personal information, modify academic details, change section assignments\
-    <br>
+    \
+
 
     <figure><img src="../../../../.gitbook/assets/Screenshot 2025-09-04 at 4.59.40 AM.png" alt=""><figcaption></figcaption></figure>
